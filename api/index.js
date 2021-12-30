@@ -7,7 +7,7 @@ const cls_model = require('./sdk/cls_model.js'); //cls
 
 // Bot Setting
 const TelegramBot = require('node-telegram-bot-api');
-const token = '5030534626:AAGAyGjAEMDT2ZmLtv2n4cxaSuAgjg-73BE'
+const token = '5026565072:AAF2h1Z6OOBysr-6IytGF8-ZkFi3hK8JhMw'
 const bot = new TelegramBot(token, {polling: true});
 
 state=0;
